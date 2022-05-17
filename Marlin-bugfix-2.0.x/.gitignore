@@ -118,6 +118,12 @@ tags
 *.su
 
 # PlatformIO files/dirs
+.pio*
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+/lib/
 
 
 # Secure Credentials
